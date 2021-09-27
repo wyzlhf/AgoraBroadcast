@@ -1,0 +1,9 @@
+{
+	"//appId": "Get your own App ID at https://dashboard.agora.io/",
+	"appId": "a0231f8416dc49c681e20722ff57b3dc",
+	"//token": "Please refer to https://docs.agora.io/en/Agora%20Platform/token",
+	"token": "006a0231f8416dc49c681e20722ff57b3dcIADInC0zDdljFxi4C4997AZ1O4t9xb4ksGCAiP8H/dPB2mHTcgkAAAAAEADkBngO961BYQEAAQD1rUFh",
+	"channelId": "123456",
+	"uid": "123456",
+	"stringUid": "123456"
+}
